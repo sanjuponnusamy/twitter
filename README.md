@@ -1,2 +1,2 @@
 live link
-https://github.com/sanjuponnusamy/twitter.git
+https://twitter-kappa-three.vercel.app/
